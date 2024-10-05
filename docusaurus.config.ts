@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Weather App Docs",
-  tagline: "Dinosaurs are cool",
+  tagline: "Documentation of building a simple weather app",
   favicon: "img/favicon.ico",
 
   url: "https://weather-app-docusaurus-site.com",
@@ -57,9 +57,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Weather App Docs",
       logo: {
-        alt: "My Site Logo",
+        alt: "Weather App Docs Logo",
         src: "img/logo.svg",
       },
       items: [
