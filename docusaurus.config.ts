@@ -60,7 +60,6 @@ const config: Config = {
           position: "left",
           label: "Getting Started",
         },
-        { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/saifulshihab",
           label: "GitHub",
