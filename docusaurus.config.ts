@@ -81,7 +81,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Weather App Docs. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
